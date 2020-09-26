@@ -1,0 +1,582 @@
+60F-Sunny
+66F-Partly Sunny
+54F-Light rain. Overcast
+66F-Mostly Cloudy
+62F-Sunny
+52F-Sunny
+63F-Sunny
+57F-Sunny
+62F-Sunny
+56F-Sunny
+59F-Sunny
+64F-Sunny
+58F-Sunny
+65F-Sunny
+61F-Sunny
+60F-Partly Sunny
+58F-Passing Clouds
+56F-Mostly Cloudy
+55F-Mostly Cloudy
+59F-Sunny
+55F-Light Rain. Broken Clouds
+56F-Sunny
+47F-Scattered Clouds
+47F-Overcast
+55F-Sunny
+53F-Sunny
+61F-Sunny
+52F-Sunny
+55F-Partly Sunny
+46F-Passing Clouds
+46F-Passing Clouds
+45F-Overcast
+52F-Overcast
+52F-Overcast
+51F-Sunny
+45F-Light Rain. Fog
+47F-Overcast
+47F-Overcast
+42F-Sunny
+45F-Mostly Cloudy
+12F-Light Snow
+32F-Overcast
+39F-Sunny
+30F-Passing Clouds
+17F-Sunny
+15F-Clear
+17F-Mostly Cloudy
+26F-Low Clouds
+21F-Sunny
+19F-Clear
+32F-Mostly Cloudy
+30F-Light Snow
+27F-Sunny
+28F-Sunny
+25F-Sunny
+21F-Sunny
+44F-Scattered Clouds
+37F-Partly Sunny
+34F-Overcast
+36F-Partly Sunny
+40F Passing Clouds
+40F-Sunny
+45F-Overcast
+41F-Overcast
+43F-Sunny
+47F-Sunny
+44F-Sunny
+46F-Sunny
+42F-Sunny
+47F-Sunny
+42F-Sunny
+38F-Overcast
+44F-Sunny
+41F-Mostly Cloudy
+47F-Sunny
+40F-Overcast
+50F-Overcast
+48F-Passing Clouds
+41F-Passing Clouds
+46F-Light Rain. Mostly Cloudy
+35F-Partly Sunny
+50F-Sunny
+47-Sunny
+45F-Mostly Cloudy
+37F-Light Rain. Mostly Cloudy
+33F-Light Snow. Fog
+31F-Light Snow. Overcast
+31F-Light Snow. Mostly Cloudy
+36F-Mostly Cloudy
+35F-Overcast
+33F-Light Snow. Fog
+32F-Light Snow. Ice Fog
+33F-Cloudy
+30F-Partly Sunny
+38F-Partly Sunny
+43-Sunny
+35F-Passing Clouds
+46F-Sunny
+44F-Sunny
+47F-Sunny
+47F-Sunny
+50F-Partly Sunny
+49F-Overcast
+56F-Sunny
+57F-Sunny
+55F-Scattered Clouds
+51F-Partly Sunny
+50F-Partly Cloudy
+49F-Overcast
+50F-Overcast
+50F-Overcast
+45F-Clear
+50F-Overcast
+52F-Scattered Clouds
+62F-Overcast
+60F-Overcast
+56F-OVercast
+56F-Partly Sunny
+51F-Partly Sunny
+56F-Overcast
+53F-Passing Clouds
+47F-Passing Clouds
+56F-Partly Sunny
+53F-Overcast
+57F-Light Rain. Sunny
+50F-Broken Clouds
+53F-Mostly Cloudy
+57F-Sunny
+57F-Sunny
+57-Passing Clouds
+57F-Overcast
+54F-Overcast
+49F-Overcast
+56F-Overcast
+55F-Overcast
+50F-Light Rain. Fog
+55F-Overcast
+60F-Overcast
+58-Partly Sunny
+52F-Overcast
+61F-Sunny
+60F-Overcast
+51F-Overcast
+52F-Overcast
+58F-Sunny
+62F-Sunny
+62F-Sunny
+63F-Sunny
+62F-Sunny
+68F-Sunny
+65-Overcast
+70F-Sunny
+71F-Sunny
+67F-Sunny
+64F-Overcast
+61F-Sunny
+67F-Sunny
+66F-Passing Clouds
+67F-Scattered Clouds
+63F-Sunny
+56F-Sunny
+59F-Partly Sunny
+65F-Partly Cloudy
+63F-Sunny
+59F-Cloudy
+60F-Overcast
+60F-Sunny
+65F-Partly Sunny
+66F-Overcast
+68F-Sunny
+65F-Sunny
+58F-Passing Clouds
+57F-Partly Sunny
+63F-Overcast
+61F-Overcast
+74-Partly Sunny
+69F-Partly Sunny
+70F-Sunny
+58F-Overcast
+63F-Sunny
+75F-Sunny
+64F-Clear
+77F-Sunny
+77F-Sunny
+79F-Sunny
+64F-Partly Sunny
+80F-Sunny
+82F-Sunny
+72F-Sunny
+65F-Partly Sunny
+70F-Sunny
+68F-Sunny
+63F-Sunny
+62F-Sunny
+70F-Sunny
+66F-Sunny
+72F-Sunny
+66F-Sunny
+77F-Sunny
+67F-Sunny
+63F-Clear
+60F-Low Clouds
+60F-Low Clouds
+61F-Overcast
+60F-Sunny
+58F-Fog
+59F-Low Clouds
+60F-Overcast
+62F-Mostly Cloudy
+66F-Sunny
+67F-Sunny
+63F-Overcast
+64F-Broken Clouds
+57F-Partly Sunny
+61F-Passing Clouds
+58F-Scattered Clouds
+68F-Sunny
+71F-Sunny
+68F-Mostly Cloudy
+69F-Passing Clouds
+57F-Sunny
+66F-Sunny
+63F-Sunny
+73F-Passing Clouds
+67F-Overcast
+63F-Sunny
+66f-Sunny
+63F-Sunny
+72F-Sunny
+61F-Sunny
+66F-Sunny
+62F-Partly Sunny
+58F-Light Rain. Mostly Cloudy
+58F-Passing Clouds
+64F-Mostly Cloudy
+58F-Sunny
+71F-Sunny
+68F-Overcast
+68F-Sunny
+70F-Sunny
+66F-Sunny
+63F-Sunny
+70F-Sunny
+64F-Sunny
+73F-Sunny
+64F-Overcast
+75F-Sunny
+59F-Sunny
+67F-Sunny 
+58F-Sunny
+70F-Sunny
+65F-Light Rain. Mostly Cloudy
+68F-Sunny
+66F-Overcast
+69F-Overcast
+63F-Partly Sunny
+71F-Sunny
+63F-Scattered Clouds
+75F-Sunny
+68F-Sunny
+58F-Sunny
+47F-Sunny
+61F-Sunny
+64F-Sunny
+64F-Sunny
+56F-Sunny
+62F-Sunny
+64F-Sunny
+53F-Overcast
+56F-Scattered Clouds
+55F-Sunny
+65F-Sunny
+52F-Fog
+63F-Sunny
+68F-Sunny
+69F-Sunny
+67F-Sunny
+50F-Sunny
+67F-Sunny
+64F-Sunny
+62F-Partly Sunny
+49F-Overcast
+59F-Sunny
+54F-Mostly Cloudy
+57F-Overcast
+58F-Overcast
+60F-Mostly Cloudy
+60F-Overcast
+63F-Sunny
+62F-Sunny
+48F-Passing Clouds
+54F-Sunny
+51F-Light rain. Overcast
+51F-Overcast
+51F-Partly Sunny
+53F-Partly Sunny
+57F-Partly Sunny
+56F-Light Rain. Mostly Cloudy
+50F-Overcast
+57F-Sunny
+60F-Passing Clouds
+50F-Overcast
+54F-Sunny
+52F-Sunny
+41F-Clear
+46F-Clear
+52F-Partly Sunny
+52F-Mostly Cloudy
+51F-Light Rain. Overcast
+51F-Light Rain. Overcast
+46F-Fog
+47F-Light Rain. Fog
+47F-Mostly Cloudy
+49F-Sunny
+52F-Partly Sunny
+46F-Sunny
+42F-Sunny
+44F-Sunny
+46F-Sunny
+44F-Sunny
+31F-Clear
+44F-Sunny
+37F-Overcast
+46F-Overcast
+44F-Sunny
+46F-Sunny
+26F-Clear
+35F-Overcast
+37F-Overcast
+33F-Overcast
+35F-Overcast
+35F-Passing Clouds
+41F-Overcast
+36F-Overcast
+38F-Sunny
+37F-Overcast
+40F-Mostly Cloudy
+43F-Light Rain. Overcast
+44F-Overcast
+41F-Light Rain. Mostly Cloudy
+42F-Partly Sunny
+45F-Sunny
+53F-Sunny
+49F-Light Rain. Overcast
+52F-Passing Clouds
+45F-Overcast
+47F-Passing Clouds
+35F-Overcast
+37F-Overcast
+39F-Low Clouds
+44F-Sunny
+32F-Fog
+32-Fog
+37F-Sunny
+35F-Sunny
+23F-Overcast
+22F-Clear
+22F-Overcast
+25F-Overcast
+26F-Light Snow. Overcast
+16F-Mostly Cloudy
+18F-Overcast
+43F-Clear
+44F-Light Rain. Mostly Cloudy
+31F-Passing Clouds
+29F-Ice Fog
+23F-Clear
+29F-Overcast
+31F-Overcas
+24F-Passing Clouds
+22F-Clear
+14F-Clear
+15F-Sunny
+9F-Sunny
+11F-Passing Clouds
+6F-Passing Clouds
+9F-Clear
+17F-Mostly Cloudy
+20F-Mostly Cloudy
+32F-Overcast
+9F-Light Snow. Ice Fog
+[-11F]~Clear
+8F-Clear
+6F-Sunny
+10F-Light Snow. Overcast
+10F-Sunny
+24F-Mostly Cloudy
+32F-Sunny
+30F-Overcast
+25F-Clear
+25F-Clear
+17F-Clear
+13F-Passing Clouds
+29F-Moslty Cloudy
+23F-Light Snow. Ice Fog
+21F-Overcast
+19F-Sunny
+14F-Clear
+23F-Overcast
+23F-Sunny
+23F-Sunny
+19F-Sunny
+13F-Clear
+8F-Sunny
+18F-Overcast
+18F-Sunny
+21F-Sunny
+26F-Sunny
+32F-Sunny
+27F-Overcast
+39F-Sunny
+28F-Clear
+27F-Passing Clouds
+32F-Sunny
+27F-Sunny
+28F-Partly Sunny
+29F-Overcast
+21F-Sunny
+15F-Sunny
+26F-Overcast
+30F-Sunny
+24F-Sunny
+35F-Sunny
+39F-Sunny
+40F-Fog
+41F-Overcast
+44F-Overcast
+47F-Overcast
+44F-Light Rain. Mostly Cloudy
+37F-Light Rain. Fog
+37F-Fog
+46F-Mostly Cloudy
+43F-Light Rain. Overcast
+50F-Broken Clouds
+50F-Sunny
+51F-Sunny
+51F-Sunny
+48F-Sunny
+48F-Sunny
+46F-Sunny
+54F-Sunny
+54F-Sunny
+48F-Overcast
+48F-Overcast
+51F-More Clouds Than Sun
+42F-Sunny
+60F-Overcast
+47F-Overcast
+60F-Sunny
+60F-Passing Clouds
+64F-Sunny
+50F-Partly Sunny
+54F-Overcast
+55F-Overcast
+55F-Sunny
+55F-Sunny
+64F-Suuny
+54F-Sunny
+56F-Sunny
+61F-Sunny
+61F-Overcast
+60F-Overcast
+57F-Mostly Cloudy
+51F-Overcast
+63F-Sunny
+73F-Sunny
+68F-Partly Sunny
+55F-Sunny
+58F-More Clouds Than Sun
+59F-Overcast
+59F-Overcast
+54F-Partly Cloudy
+57F-Overcast
+52F-Passing Clouds
+62F-Scattered Clouds
+59F-Sunny
+60F-Partly Sunny
+59F-Overcast
+58F-Sunny
+59F-Sunny
+61F-Sunny
+58F-Light Rain. Overcast
+56F-Broken Clouds
+63F-Sunny
+66F-Sunny
+58F-Sunny
+62F-Sunny
+64F-Sunny
+58F-Sunny
+61F-Passing Clouds
+56F-Overcast
+60F-Passing Clouds
+60F-Sunny
+62F-Sunny
+60F-Sunny
+66F-Sunny
+58F-Partly Sunny
+58F-Overcast
+67F-Sunny
+66F-Sunny
+66F-Sunny
+64F-Sunny
+52F-Sunny
+71F-Overcast
+71F-Sunny
+67F-Sunny
+77F-Sunny
+78F-Sunny
+68F-Partly Sunny
+66F-Sunny
+64F-Sunny
+67F-Sunny
+68F-Partly Sunny
+57F-More Clouds Than Sun
+61F-Overcast
+63F-Mostly Cloudy
+65F-Cloudy
+61F-Light Rain
+69F-Passing Clouds
+70F-Sunny
+78F-Sunny
+69F-Sunny
+66F-Sunny
+71F-Partly Sunny
+67F-Light Rain. Overcast
+64F-Passing Clouds
+64F-Sunny
+72F-Sunny
+72F-Sunny
+67F-Sunny
+61F-Sunny
+69F-Sunny
+59F-Overcast
+58F-Overcast
+59F-Partly Sunny
+59F-Light Rain. Overcast
+55F-Partly Sunny
+59F-Overcast
+66F-Sunny
+68F-Sunny
+66F-Scattered Clouds
+59F-More Clouds Than Sun
+68F-Overcast
+62F-Overcast
+73F-Sunny
+68F-Sunny
+68F-Partly Sunny
+66F-Passing Clouds
+62F-Partly Sunny
+62F-Partly Sunny
+54F-Scattered Clouds
+68F-Sunny
+59F-Partly Sunny
+68F-Sunny
+72F-Sunny
+76F-Sunny
+68F-Sunny
+63F-Sunny
+69F-Sunny
+61F-Overcast
+57F-Light Rain
+62F-Sunny
+58F-Sunny
+56F-Mostly Cloudy
+56F-Passing Clouds
+49F-Sunny
+48F-Sunny
+54F-Sunny
+60F-Overcast
+57F-Sunny
+54F-Sunny
+52F-Sunny
+56F-Sunny
+52F-Mostly Cloudy
+54F-Scattered Clouds
+58F-Sunny
+56F-Scattered Clouds
+55F-Scattered Clouds
+50F-Overcast
+51F-Partly Cloudy
+53F-Partly Sunny
+51F-Light Rain
