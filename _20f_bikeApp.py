@@ -371,7 +371,7 @@ def total_stats():
         hour_v='Hour'
     snaps.display_image('fx/jpg/aquamoose.jpg')
     total_string=snaps.get_string('\nTotal Moose Seen: '+str(total1)+'\n\nTotal Miles Biked: '+str(round(total,2))+'\n\nTotal Time Spent Biking: '+str(grand_hour)+hour_v+' and '+str(grand_min)+minute_v+'\n\nPRESS THE ENTER KEY TO EXIT', vert='bottom',horiz='left',color=(0,0,0))
-    cwd = os.getcwd
+    cwd = os.getcwd()
     if total > 7000:
         snaps.display_image('fx/jpg/omg.jpg')
         snaps.display_message("Congrats On Biking Over 7,000 Miles \n\tIn\nAnchorage Alaska!\nEnjoy The Secret Movie_<@:D",color=(255,255,0),size=50,vert='top',horiz='left')
