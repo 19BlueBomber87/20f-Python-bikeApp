@@ -479,7 +479,7 @@ def average_stats():
     snaps.get_string(total_string,vert='bottom',size=40,color=(0,0,0))
     snaps.display_image('fx/jpg/Atown.jpg')
 # function 7
-def save_stats(file_path="C:/my_apps/app1/_output"):
+def save_stats(file_path="_output"):
     '''
     Saves the contents of the sales list in a file
     file_path gives he path to the file to save
@@ -570,7 +570,7 @@ def save_stats(file_path="C:/my_apps/app1/_output"):
     snaps.display_message('Save Path: '+file_path+save_name,color=(255,255,0),size=70,vert='bottom',horiz='left')
     time.sleep(4)
 # function 8
-def load_stats(file_path="C:/my_apps/app1/_output"):
+def load_stats(file_path="_output"):
     '''
     Loads the miles list in a file from a file
     file_path gives the path to the file to load
@@ -677,7 +677,7 @@ def start_x():
     <@:D
     '''
     try:
-        path = "C:/my_apps/app1/fx/jpg/"
+        path = "fx/jpg/"
         directories = os.listdir(path)
         for file in directories:
             display_text=(path+file)
