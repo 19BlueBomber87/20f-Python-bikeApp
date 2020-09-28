@@ -379,7 +379,7 @@ def total_stats():
         time.sleep(5)
         snaps.display_image("fx/jpg/Atown.jpg")
         time.sleep(1)       
-        os.startfile(cwd+"fx/secret_folder/7k.mp4")
+        os.startfile(cwd+"/fx/secret_folder/7k.mp4")
         time.sleep(360)
         os.system('powershell.exe Stop-Process (Get-Process -ProcessName *video*);exit')
         snaps.display_image("fx/jpg/Atown.jpg")
